@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "aetherium:aetherium_block",
+    "aetherium:aetherium_shard_ore",
+    "aetherium:deepslate_aetherium_shard_ore"
+  ]
+}

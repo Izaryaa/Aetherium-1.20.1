@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 2.0,
+  "group": "aetherium",
+  "ingredient": {
+    "item": "aetherium:deepslate_aetherium_shard_ore"
+  },
+  "result": "aetherium:aetherium_shard"
+}

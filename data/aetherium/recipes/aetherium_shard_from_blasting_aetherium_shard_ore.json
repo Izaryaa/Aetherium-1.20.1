@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 2.0,
+  "group": "aetherium",
+  "ingredient": {
+    "item": "aetherium:aetherium_shard_ore"
+  },
+  "result": "aetherium:aetherium_shard"
+}

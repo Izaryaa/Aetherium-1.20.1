@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "aetherium:aetherium_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "aetherium:aetherium_ingot"
+  }
+}

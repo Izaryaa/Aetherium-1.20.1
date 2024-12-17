@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "aetherium:aetherium_helmet",
+    "aetherium:aetherium_chestplate",
+    "aetherium:aetherium_leggings",
+    "aetherium:aetherium_boots"
+  ]
+}
