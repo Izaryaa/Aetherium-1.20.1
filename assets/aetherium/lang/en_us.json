@@ -1,0 +1,22 @@
+{
+  "item.aetherium.aetherium_ingot": "Aetherium Ingot",
+  "item.aetherium.aetherium_shard": "Aetherium Shard",
+  "item.aetherium.aetherium_upgrade_smithing_template": "Smithing Template",
+
+  "item.aetherium.aetherium_sword": "Aetherium Sword",
+  "item.aetherium.aetherium_pickaxe": "Aetherium Pickaxe",
+  "item.aetherium.aetherium_axe": "Aetherium Axe",
+  "item.aetherium.aetherium_shovel": "Aetherium Shovel",
+  "item.aetherium.aetherium_hoe": "Aetherium Hoe",
+
+  "item.aetherium.aetherium_helmet": "Aetherium Helmet",
+  "item.aetherium.aetherium_chestplate": "Aetherium Chestplate",
+  "item.aetherium.aetherium_leggings": "Aetherium Leggings",
+  "item.aetherium.aetherium_boots": "Aetherium Boots",
+
+  "block.aetherium.aetherium_block": "Block of Aetherium",
+  "block.aetherium.aetherium_shard_ore": "Aetherium Shard Ore",
+  "block.aetherium.deepslate_aetherium_shard_ore": "Deepslate Aetherium Shard Ore",
+
+  "itemgroup.aetherium": "Aetherium"
+}
